@@ -4,7 +4,7 @@
             "outputFile": "/Users/csq/src-master-examples-androidapp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
             "map": [
                 {
-                    "source": "/Users/csq/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0bf7a67ca50e0c2c934f42e0641ef50a/res/values-v13/values-v13.xml",
+                    "source": "/Users/csq/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d31c093b855e5ff0eeeafc3cbed42523/res/values-v13/values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
