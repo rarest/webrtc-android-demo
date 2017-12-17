@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.webrtc:google-webrtc-1.0.21217">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/09058544d0d1216f34543c0b09b75cd5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.21217.aar/09058544d0d1216f34543c0b09b75cd5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
